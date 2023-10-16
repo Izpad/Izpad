@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izpad
 - 👀 I’m interested in specializing in the field of programming
-- 🌱 I’m currently learning Java and SQL
+- 🌱 I’m currently learning CSS and JavaScript
 
 
 <!---
